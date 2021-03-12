@@ -2,6 +2,9 @@
 
 ### Hi there 👋
 
+![hi](https://user-images.githubusercontent.com/905292/111006146-8847d080-838c-11eb-9b22-aa34aa10aba6.gif)
+
+
 <!--
 **emanuelschmoczer/emanuelschmoczer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
