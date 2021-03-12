@@ -1,3 +1,5 @@
+<a href="https://github.com/emanuelschmoczer"><img src="https://img.shields.io/github/followers/emanuelschmoczer?label=Follow&style=social"></a> [![HitCount](http://hits.dwyl.com/emanuelschmoczer/emanuelschmoczer.svg)](http://hits.dwyl.com/emanuelschmoczer/emanuelschmoczer) <img src="https://www.codewars.com/users/emanuelschmoczer/badges/small">
+
 ### Hi there 👋
 
 <!--
