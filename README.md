@@ -1,5 +1,7 @@
 <a href="https://github.com/emanuelschmoczer"><img src="https://img.shields.io/github/followers/emanuelschmoczer?label=Follow&style=social"></a> [![HitCount](http://hits.dwyl.com/emanuelschmoczer/emanuelschmoczer.svg)](http://hits.dwyl.com/emanuelschmoczer/emanuelschmoczer) <a href="https://www.codewars.com/users/emanuelschmoczer" target="_blank"><img src="https://www.codewars.com/users/emanuelschmoczer/badges/small"></a>
 
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=emanuelschmoczer&show_icons=true">
+
 ### Hi there 👋
 
 ![hi](https://user-images.githubusercontent.com/905292/111006146-8847d080-838c-11eb-9b22-aa34aa10aba6.gif)
