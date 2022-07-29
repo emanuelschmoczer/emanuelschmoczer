@@ -2,6 +2,8 @@
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=emanuelschmoczer&show_icons=true">
 
+<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelschmoczer&layout=compact&hide_border=true&bg_color=ffffff&langs_count=6&hide=scss,css">
+
 ### Hi there 👋
 
 ![hi](https://user-images.githubusercontent.com/905292/111006146-8847d080-838c-11eb-9b22-aa34aa10aba6.gif)
